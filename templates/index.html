@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sabor Express</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/index.css') }}">
+</head>
+<body>
+   <header class="header container">
+        <img src="{{ url_for('static', filename='img/logo-chatbot.svg') }}" alt="Chatbot Logo">
+        <div class="header__actions">
+            <a href="#" onclick="clearConversation()">Clear Conversation</a>
+        </div>
+   </header> 
+   <main class="main">
+        <section class="chat container" id="chat">
+            <p class="chat__bubble chat__bubble--bot">
+                Hello! I am the virtual assistant of Sabor Express ~<br/><br/>
+                How can I help you?
+            </p>
+        </section>
+        <section class="input container">
+            <div class="input__container">
+                <button id="more_options" aria-label="More options button">
+                    <i class="icon icon--more-options"></i>
+                </button>
+                <input type="text" class="input__field" placeholder="Send a message" id="input">
+                <button aria-label="Send button" id="send-button">
+                    <img class="icon icon--send-message">
+                </button>
+            </div>
+        </section>
+   </main>
+</body>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="{{ url_for('static', filename='js/index.js') }}"></script>
+</html>

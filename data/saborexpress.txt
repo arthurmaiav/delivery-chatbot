@@ -1,0 +1,94 @@
+# Sabor Express
+
+**Service Name:** Sabor Express  
+**Slogan:** "The Flavor that Connects"
+
+## Service Description
+Sabor Express is a food delivery platform that connects consumers to a vast network of restaurants, bakeries, cafes, and supermarkets. With a user-friendly interface and an efficient delivery system, Sabor Express aims to make the online food ordering experience easy and enjoyable for all users.
+
+The company values sustainability, safety, and high-quality service for all users. Additionally, Sabor Express offers a wide range of cuisine options to suit all tastes, from traditional dishes to vegan and international options.
+
+## Partner Restaurants
+
+Sabor Express is present in various cities and regions of Brazil, ensuring that more consumers can enjoy an efficient and high-quality food delivery experience. Currently, the app is available in the following locations:
+
+- São Paulo, SP
+- Rio de Janeiro, RJ
+- Belo Horizonte, MG
+- Porto Alegre, RS
+- Curitiba, PR
+- Florianópolis, SC
+- Recife, PE
+- Brasília, DF
+- Salvador, BA
+- Campinas, SP
+- Manaus, AM
+- Fortaleza, CE
+
+### Featured Partners
+
+1. **Bistrô Delícia**
+   - Cuisine: Italian
+   - Location: São Paulo, SP
+   - Specialties: Margherita Pizza, Bolognese Lasagna, Tiramisu
+
+2. **Sushi Zen**
+   - Cuisine: Japanese
+   - Location: Rio de Janeiro, RJ
+   - Specialties: Salmon Sushi, Vegetable Tempura, Tonkotsu Ramen
+
+[Additional restaurant listings continue...]
+
+## Policies
+
+### Employee Policy
+Sabor Express values its employees, offering a safe, inclusive, and motivating work environment. Each employee receives proper training and professional development opportunities. Additionally, the company adopts diversity and inclusion policies.
+
+### Privacy Policy
+Sabor Express respects user privacy and commits to protecting collected personal information. Data is used exclusively to improve user experience and is stored securely, in compliance with data protection laws.
+
+### Security
+Security is a priority at Sabor Express. We use advanced technologies to protect personal data and financial transactions.
+
+### Sustainability
+Sabor Express commits to sustainable practices, encouraging the use of eco-friendly packaging and implementing processes that minimize environmental impact.
+
+## Benefits
+
+### Discounts and Promotions
+1. **FirstPurchase10:** 10% off first purchase
+2. **FreeShipping25:** Free shipping on orders over R$25 on first purchase of the month
+3. **LoyaltyDiscount20:** 20% off after 5 purchases, valid on first purchase of the month
+
+### Available Services
+- Meal Delivery
+- Grocery Delivery
+- Bakery and Café Delivery
+- Pharmacy Item Delivery
+
+## Support Information
+
+### General Contact
+- Phone: (11) 4000-1234
+- Email: support@saborexpress.com
+- Hours: Monday to Friday, 8 AM to 10 PM; Saturday, 9 AM to 6 PM
+
+### Technical Support for Restaurant Partners
+- Phone: (11) 4000-5678
+- Email: partner.support@saborexpress.com
+- WhatsApp: (11) 99999-1234
+- Hours: Monday to Friday, 7 AM to 11 PM; Saturday and Sunday, 8 AM to 8 PM
+
+### Registration and Documentation Inquiries
+- Email: registration@saborexpress.com
+- Online Chat: Available on official website during business hours
+
+### Customer Support
+- Phone: 0800 123 4567
+- Email: customer.service@saborexpress.com
+- App Chat: Available 24/7
+
+### Mailing Address
+Sabor Express  
+Central Avenue, 1234, Suite 567  
+São Paulo, SP, 01000-000
