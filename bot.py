@@ -2,6 +2,7 @@ import anthropic
 import dotenv
 import os
 from helpers import *
+from identify_persona import *
 
 dotenv.load_dotenv()
 client = anthropic.Anthropic(
@@ -11,13 +12,18 @@ model = "claude-3-5-sonnet-20240620"
 context = load('./data/saborexpress.txt')
 
 def bot(prompt):
+    personality = personas[identify_persona(prompt)]
     sys_prompt = f"""
     You are a customer service chatbot for a delivery app for restaurants, bakeries, markets, and pharmacies.
     You cannot and should not answer questions unrelated to the provided app data!
-    You should generate responses using the context bellow
-
+    You should generate responses using the context bellow.
+    You should also impersonate the persona bellow.
+    
     # Context
     {context}
+
+    # Persona
+    {personality}
     """
     user_prompt = prompt
 
